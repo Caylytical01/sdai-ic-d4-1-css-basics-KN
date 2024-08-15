@@ -1,7 +1,12 @@
 body {
-    background-color: whitesmoke;
+    background-color:beige;
 }
 
 p {
-    color: darkslategray;
+    color: blue;
+}
+h1
+{
+    font-size: 24px;
+    color:steelblue;
 }
