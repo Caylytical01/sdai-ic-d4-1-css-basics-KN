@@ -1,0 +1,21 @@
+/* Global Styling (for styling whole page*/
+body
+{
+    background-color:beige;
+}
+
+p{
+    color:aqua;
+}
+
+/* Html tag styling*/
+h1
+{
+    font-size: 24px;
+    color: steelblue;
+}
+
+h2
+{
+    color: black;
+}
